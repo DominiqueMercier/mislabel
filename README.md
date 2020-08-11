@@ -10,4 +10,4 @@ Anomaly detection dataset: https://bit.ly/2UNk0Lo
 
 FordB and Character Trajectories: http://www.timeseriesclassification.com/index.php
 
-Use the main.py file to execute selected procedure or the execute.sh file for a complete analysis.
+Use the main.py file to execute a selected procedure or the execute.sh file for a complete analysis. The .ipynb files provide additional methods to perform a post-hoc analysis using the trained models.
