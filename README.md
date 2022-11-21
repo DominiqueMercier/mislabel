@@ -4,7 +4,11 @@
 
 Code release for Interpreting Deep Models through the Lens of Data at ICJNN 2020
 
-Paper: https://arxiv.org/abs/2005.03442
+Paper:
+
+https://arxiv.org/abs/2005.03442
+
+https://doi.org/10.1109/IJCNN48605.2020.9207704
 
 The used datasets are publically available:
 
