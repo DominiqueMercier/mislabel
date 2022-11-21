@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 #  Interpreting Deep Models through the Lens of Data
 
 Code release for Interpreting Deep Models through the Lens of Data at ICJNN 2020
